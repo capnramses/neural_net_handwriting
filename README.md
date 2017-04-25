@@ -1,7 +1,6 @@
 # neural_net_handwriting
 
-A demo project to brush up my machine learning skills by writing a
-handwriting recognition neural netowrk from scratch in C.
+A demo project to brush up my machine learning skills by writing an image recognition neural network from scratch in C.
 
 ![input sample](img2_label_4.png)
 
